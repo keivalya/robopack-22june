@@ -1,6 +1,8 @@
 # Robopack Summary: Introduction to Robotics
 ~ by [Keivalya Pandya](https://sites.google.com/view/keivalya/)
 
+*Time and Date of presentation: 7:30 PM IST on **22nd June, 2024** (w/ My Equation)*
+
 ## Section 1: Introduction to Python Programming
 
 ### Theory
