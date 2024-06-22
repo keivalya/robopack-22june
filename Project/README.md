@@ -1,4 +1,4 @@
-Sure, let's break down the code section-by-section to help you understand how each part works.
+Let's break down the code section-by-section to help you understand how each part works.
 
 ### 1. Importing Libraries
 ```python
